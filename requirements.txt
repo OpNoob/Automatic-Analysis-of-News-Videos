@@ -1,0 +1,15 @@
+opencv-contrib-python
+numpy
+tqdm
+setup/Dlib-main/dlib-19.22.99-cp39-cp39-win_amd64.whl
+face-recognition
+pandas
+matplotlib
+PyQt5
+pyinstaller
+pytesseract
+
+
+
+
+
