@@ -1,0 +1,2214 @@
+{
+    "Number of videos": 215,
+    "Number of News Video Dates": 41,
+    "Total Video Duration": "8.0 hours, 28.0 minutes, 32.72 seconds",
+    "Total Frame Count": 858398,
+    "Average Video Duration": "2.0 minutes, 21.92 seconds",
+    "Average Frame Count": 3992.5488372093023,
+    "Frequencies": {
+        "Frames per Second (fps)": {
+            "30.0": 135,
+            "25.0": 80
+        },
+        "Resolutions": {
+            "(1280, 720)": 150,
+            "(1024, 576)": 43,
+            "(960, 540)": 22
+        },
+        "Video Dates": {
+            "15.08.2022": 8,
+            "29.07.2022": 8,
+            "11.09.2022": 8,
+            "07.08.2022": 7,
+            "13.08.2022": 7,
+            "01.09.2022": 7,
+            "03.08.2022": 6,
+            "05.08.2022": 6,
+            "06.08.2022": 6,
+            "14.08.2022": 6,
+            "16.08.2022": 6,
+            "18.08.2022": 6,
+            "27.08.2022": 6,
+            "29.08.2022": 6,
+            "30.08.2022": 6,
+            "02.09.2022": 6,
+            "03.09.2022": 6,
+            "04.09.2022": 6,
+            "06.09.2022": 6,
+            "08.09.2022": 6,
+            "17.08.2022": 5,
+            "21.08.2022": 5,
+            "22.08.2022": 5,
+            "24.08.2022": 5,
+            "25.08.2022": 5,
+            "31.08.2022": 5,
+            "30.07.2022": 5,
+            "31.07.2022": 5,
+            "07.09.2022": 5,
+            "09.09.2022": 5,
+            "04.08.2022": 4,
+            "09.08.2022": 4,
+            "19.08.2022": 4,
+            "23.08.2022": 4,
+            "26.08.2022": 4,
+            "05.09.2022": 4,
+            "01.08.2022": 3,
+            "10.09.2022": 3,
+            "08.08.2022": 2,
+            "20.08.2022": 2,
+            "28.08.2022": 2
+        }
+    },
+    "videos": [
+        {
+            "name": "01.08.2022 segment #0.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4832,
+            "duration": 161.06666666666666
+        },
+        {
+            "name": "01.08.2022 segment #1.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 1502,
+            "duration": 50.06666666666667
+        },
+        {
+            "name": "01.08.2022 segment #2.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4652,
+            "duration": 155.06666666666666
+        },
+        {
+            "name": "03.08.2022 segment #0.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 2792,
+            "duration": 93.06666666666666
+        },
+        {
+            "name": "03.08.2022 segment #1.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4592,
+            "duration": 153.06666666666666
+        },
+        {
+            "name": "03.08.2022 segment #2.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4202,
+            "duration": 140.06666666666666
+        },
+        {
+            "name": "03.08.2022 segment #3.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3122,
+            "duration": 104.06666666666666
+        },
+        {
+            "name": "03.08.2022 segment #4.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 572,
+            "duration": 19.066666666666666
+        },
+        {
+            "name": "03.08.2022 segment #5.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3302,
+            "duration": 110.06666666666666
+        },
+        {
+            "name": "04.08.2022 segment #0.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3250,
+            "duration": 130.0
+        },
+        {
+            "name": "04.08.2022 segment #1.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3100,
+            "duration": 124.0
+        },
+        {
+            "name": "04.08.2022 segment #2.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3825,
+            "duration": 153.0
+        },
+        {
+            "name": "04.08.2022 segment #3.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 5075,
+            "duration": 203.0
+        },
+        {
+            "name": "05.08.2022 segment #0.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3692,
+            "duration": 123.06666666666666
+        },
+        {
+            "name": "05.08.2022 segment #1.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3212,
+            "duration": 107.06666666666666
+        },
+        {
+            "name": "05.08.2022 segment #2.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 812,
+            "duration": 27.066666666666666
+        },
+        {
+            "name": "05.08.2022 segment #3.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 6302,
+            "duration": 210.06666666666666
+        },
+        {
+            "name": "05.08.2022 segment #4.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3302,
+            "duration": 110.06666666666666
+        },
+        {
+            "name": "05.08.2022 segment #5.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3992,
+            "duration": 133.06666666666666
+        },
+        {
+            "name": "06.08.2022 segment #0.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 2000,
+            "duration": 80.0
+        },
+        {
+            "name": "06.08.2022 segment #1.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 4600,
+            "duration": 184.0
+        },
+        {
+            "name": "06.08.2022 segment #2.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 4775,
+            "duration": 191.0
+        },
+        {
+            "name": "06.08.2022 segment #3.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 3075,
+            "duration": 123.0
+        },
+        {
+            "name": "06.08.2022 segment #4.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 4375,
+            "duration": 175.0
+        },
+        {
+            "name": "06.08.2022 segment #5.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 2300,
+            "duration": 92.0
+        },
+        {
+            "name": "07.08.2022 segment #0.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 692,
+            "duration": 23.066666666666666
+        },
+        {
+            "name": "07.08.2022 segment #1.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4892,
+            "duration": 163.06666666666666
+        },
+        {
+            "name": "07.08.2022 segment #2.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 6512,
+            "duration": 217.06666666666666
+        },
+        {
+            "name": "07.08.2022 segment #3.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4142,
+            "duration": 138.06666666666666
+        },
+        {
+            "name": "07.08.2022 segment #4.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3992,
+            "duration": 133.06666666666666
+        },
+        {
+            "name": "07.08.2022 segment #5.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4592,
+            "duration": 153.06666666666666
+        },
+        {
+            "name": "07.08.2022 segment #6.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3872,
+            "duration": 129.06666666666666
+        },
+        {
+            "name": "08.08.2022 segment #0.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 6392,
+            "duration": 213.06666666666666
+        },
+        {
+            "name": "08.08.2022 segment #1.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 6542,
+            "duration": 218.06666666666666
+        },
+        {
+            "name": "09.08.2022 segment #0.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 5312,
+            "duration": 177.06666666666666
+        },
+        {
+            "name": "09.08.2022 segment #1.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 1352,
+            "duration": 45.06666666666667
+        },
+        {
+            "name": "09.08.2022 segment #2.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 6242,
+            "duration": 208.06666666666666
+        },
+        {
+            "name": "09.08.2022 segment #3.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4142,
+            "duration": 138.06666666666666
+        },
+        {
+            "name": "13.08.2022 segment #0.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4952,
+            "duration": 165.06666666666666
+        },
+        {
+            "name": "13.08.2022 segment #1.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 5612,
+            "duration": 187.06666666666666
+        },
+        {
+            "name": "13.08.2022 segment #2.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4082,
+            "duration": 136.06666666666666
+        },
+        {
+            "name": "13.08.2022 segment #3.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4262,
+            "duration": 142.06666666666666
+        },
+        {
+            "name": "13.08.2022 segment #4.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4082,
+            "duration": 136.06666666666666
+        },
+        {
+            "name": "13.08.2022 segment #5.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4622,
+            "duration": 154.06666666666666
+        },
+        {
+            "name": "13.08.2022 segment #6.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3482,
+            "duration": 116.06666666666666
+        },
+        {
+            "name": "14.08.2022 segment #0.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4352,
+            "duration": 145.06666666666666
+        },
+        {
+            "name": "14.08.2022 segment #1.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3722,
+            "duration": 124.06666666666666
+        },
+        {
+            "name": "14.08.2022 segment #2.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4262,
+            "duration": 142.06666666666666
+        },
+        {
+            "name": "14.08.2022 segment #3.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4022,
+            "duration": 134.06666666666666
+        },
+        {
+            "name": "14.08.2022 segment #4.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3782,
+            "duration": 126.06666666666666
+        },
+        {
+            "name": "14.08.2022 segment #5.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 5372,
+            "duration": 179.06666666666666
+        },
+        {
+            "name": "15.08.2022 segment #0.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 5972,
+            "duration": 199.06666666666666
+        },
+        {
+            "name": "15.08.2022 segment #1.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3422,
+            "duration": 114.06666666666666
+        },
+        {
+            "name": "15.08.2022 segment #2.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4862,
+            "duration": 162.06666666666666
+        },
+        {
+            "name": "15.08.2022 segment #3.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 5702,
+            "duration": 190.06666666666666
+        },
+        {
+            "name": "15.08.2022 segment #4.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3872,
+            "duration": 129.06666666666666
+        },
+        {
+            "name": "15.08.2022 segment #5.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3092,
+            "duration": 103.06666666666666
+        },
+        {
+            "name": "15.08.2022 segment #6.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4352,
+            "duration": 145.06666666666666
+        },
+        {
+            "name": "15.08.2022 segment #7.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 2582,
+            "duration": 86.06666666666666
+        },
+        {
+            "name": "16.08.2022 segment #0.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4802,
+            "duration": 160.06666666666666
+        },
+        {
+            "name": "16.08.2022 segment #1.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3092,
+            "duration": 103.06666666666666
+        },
+        {
+            "name": "16.08.2022 segment #2.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4022,
+            "duration": 134.06666666666666
+        },
+        {
+            "name": "16.08.2022 segment #3.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4922,
+            "duration": 164.06666666666666
+        },
+        {
+            "name": "16.08.2022 segment #4.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4802,
+            "duration": 160.06666666666666
+        },
+        {
+            "name": "16.08.2022 segment #5.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3572,
+            "duration": 119.06666666666666
+        },
+        {
+            "name": "17.08.2022 segment #0.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 6482,
+            "duration": 216.06666666666666
+        },
+        {
+            "name": "17.08.2022 segment #1.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 5042,
+            "duration": 168.06666666666666
+        },
+        {
+            "name": "17.08.2022 segment #2.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3752,
+            "duration": 125.06666666666666
+        },
+        {
+            "name": "17.08.2022 segment #3.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 2852,
+            "duration": 95.06666666666666
+        },
+        {
+            "name": "17.08.2022 segment #4.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4082,
+            "duration": 136.06666666666666
+        },
+        {
+            "name": "18.08.2022 segment #0.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3662,
+            "duration": 122.06666666666666
+        },
+        {
+            "name": "18.08.2022 segment #1.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4382,
+            "duration": 146.06666666666666
+        },
+        {
+            "name": "18.08.2022 segment #2.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4982,
+            "duration": 166.06666666666666
+        },
+        {
+            "name": "18.08.2022 segment #3.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 5822,
+            "duration": 194.06666666666666
+        },
+        {
+            "name": "18.08.2022 segment #4.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4502,
+            "duration": 150.06666666666666
+        },
+        {
+            "name": "18.08.2022 segment #5.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 5252,
+            "duration": 175.06666666666666
+        },
+        {
+            "name": "19.08.2022 segment #0.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 2450,
+            "duration": 98.0
+        },
+        {
+            "name": "19.08.2022 segment #1.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 1950,
+            "duration": 78.0
+        },
+        {
+            "name": "19.08.2022 segment #2.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 3525,
+            "duration": 141.0
+        },
+        {
+            "name": "19.08.2022 segment #3.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 3475,
+            "duration": 139.0
+        },
+        {
+            "name": "20.08.2022 segment #0.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 4875,
+            "duration": 195.0
+        },
+        {
+            "name": "20.08.2022 segment #1.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 4000,
+            "duration": 160.0
+        },
+        {
+            "name": "21.08.2022 segment #0.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 2475,
+            "duration": 99.0
+        },
+        {
+            "name": "21.08.2022 segment #1.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 3925,
+            "duration": 157.0
+        },
+        {
+            "name": "21.08.2022 segment #2.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 2450,
+            "duration": 98.0
+        },
+        {
+            "name": "21.08.2022 segment #3.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 3550,
+            "duration": 142.0
+        },
+        {
+            "name": "21.08.2022 segment #4.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 3850,
+            "duration": 154.0
+        },
+        {
+            "name": "22.08.2022 segment #0.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 5522,
+            "duration": 184.06666666666666
+        },
+        {
+            "name": "22.08.2022 segment #1.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4292,
+            "duration": 143.06666666666666
+        },
+        {
+            "name": "22.08.2022 segment #2.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4232,
+            "duration": 141.06666666666666
+        },
+        {
+            "name": "22.08.2022 segment #3.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4652,
+            "duration": 155.06666666666666
+        },
+        {
+            "name": "22.08.2022 segment #4.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4262,
+            "duration": 142.06666666666666
+        },
+        {
+            "name": "23.08.2022 segment #0.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 6422,
+            "duration": 214.06666666666666
+        },
+        {
+            "name": "23.08.2022 segment #1.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 5822,
+            "duration": 194.06666666666666
+        },
+        {
+            "name": "23.08.2022 segment #2.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4832,
+            "duration": 161.06666666666666
+        },
+        {
+            "name": "23.08.2022 segment #3.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4322,
+            "duration": 144.06666666666666
+        },
+        {
+            "name": "24.08.2022 segment #0.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 5222,
+            "duration": 174.06666666666666
+        },
+        {
+            "name": "24.08.2022 segment #1.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 5642,
+            "duration": 188.06666666666666
+        },
+        {
+            "name": "24.08.2022 segment #2.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 2492,
+            "duration": 83.06666666666666
+        },
+        {
+            "name": "24.08.2022 segment #3.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4832,
+            "duration": 161.06666666666666
+        },
+        {
+            "name": "24.08.2022 segment #4.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4292,
+            "duration": 143.06666666666666
+        },
+        {
+            "name": "25.08.2022 segment #0.mp4",
+            "fps": 25.0,
+            "resolution": [
+                960,
+                540
+            ],
+            "frame_count": 3477,
+            "duration": 139.08
+        },
+        {
+            "name": "25.08.2022 segment #1.mp4",
+            "fps": 25.0,
+            "resolution": [
+                960,
+                540
+            ],
+            "frame_count": 2727,
+            "duration": 109.08
+        },
+        {
+            "name": "25.08.2022 segment #2.mp4",
+            "fps": 25.0,
+            "resolution": [
+                960,
+                540
+            ],
+            "frame_count": 2652,
+            "duration": 106.08
+        },
+        {
+            "name": "25.08.2022 segment #3.mp4",
+            "fps": 25.0,
+            "resolution": [
+                960,
+                540
+            ],
+            "frame_count": 6102,
+            "duration": 244.08
+        },
+        {
+            "name": "25.08.2022 segment #4.mp4",
+            "fps": 25.0,
+            "resolution": [
+                960,
+                540
+            ],
+            "frame_count": 2352,
+            "duration": 94.08
+        },
+        {
+            "name": "26.08.2022 segment #0.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4650,
+            "duration": 186.0
+        },
+        {
+            "name": "26.08.2022 segment #1.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3875,
+            "duration": 155.0
+        },
+        {
+            "name": "26.08.2022 segment #2.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3850,
+            "duration": 154.0
+        },
+        {
+            "name": "26.08.2022 segment #3.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 2575,
+            "duration": 103.0
+        },
+        {
+            "name": "27.08.2022 segment #0.mp4",
+            "fps": 25.0,
+            "resolution": [
+                960,
+                540
+            ],
+            "frame_count": 4277,
+            "duration": 171.08
+        },
+        {
+            "name": "27.08.2022 segment #1.mp4",
+            "fps": 25.0,
+            "resolution": [
+                960,
+                540
+            ],
+            "frame_count": 4027,
+            "duration": 161.08
+        },
+        {
+            "name": "27.08.2022 segment #2.mp4",
+            "fps": 25.0,
+            "resolution": [
+                960,
+                540
+            ],
+            "frame_count": 3852,
+            "duration": 154.08
+        },
+        {
+            "name": "27.08.2022 segment #3.mp4",
+            "fps": 25.0,
+            "resolution": [
+                960,
+                540
+            ],
+            "frame_count": 4827,
+            "duration": 193.08
+        },
+        {
+            "name": "27.08.2022 segment #4.mp4",
+            "fps": 25.0,
+            "resolution": [
+                960,
+                540
+            ],
+            "frame_count": 5077,
+            "duration": 203.08
+        },
+        {
+            "name": "27.08.2022 segment #5.mp4",
+            "fps": 25.0,
+            "resolution": [
+                960,
+                540
+            ],
+            "frame_count": 2702,
+            "duration": 108.08
+        },
+        {
+            "name": "28.08.2022 segment #0.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3450,
+            "duration": 138.0
+        },
+        {
+            "name": "28.08.2022 segment #1.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4100,
+            "duration": 164.0
+        },
+        {
+            "name": "29.08.2022 segment #0.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4082,
+            "duration": 136.06666666666666
+        },
+        {
+            "name": "29.08.2022 segment #1.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3962,
+            "duration": 132.06666666666666
+        },
+        {
+            "name": "29.08.2022 segment #2.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 5342,
+            "duration": 178.06666666666666
+        },
+        {
+            "name": "29.08.2022 segment #3.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3902,
+            "duration": 130.06666666666666
+        },
+        {
+            "name": "29.08.2022 segment #4.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4532,
+            "duration": 151.06666666666666
+        },
+        {
+            "name": "29.08.2022 segment #5.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4262,
+            "duration": 142.06666666666666
+        },
+        {
+            "name": "30.08.2022 segment #0.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 3825,
+            "duration": 153.0
+        },
+        {
+            "name": "30.08.2022 segment #1.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 2575,
+            "duration": 103.0
+        },
+        {
+            "name": "30.08.2022 segment #2.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 2725,
+            "duration": 109.0
+        },
+        {
+            "name": "30.08.2022 segment #3.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 3800,
+            "duration": 152.0
+        },
+        {
+            "name": "30.08.2022 segment #4.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 2850,
+            "duration": 114.0
+        },
+        {
+            "name": "30.08.2022 segment #5.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 3375,
+            "duration": 135.0
+        },
+        {
+            "name": "31.08.2022 segment #0.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4172,
+            "duration": 139.06666666666666
+        },
+        {
+            "name": "31.08.2022 segment #1.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 5732,
+            "duration": 191.06666666666666
+        },
+        {
+            "name": "31.08.2022 segment #2.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3212,
+            "duration": 107.06666666666666
+        },
+        {
+            "name": "31.08.2022 segment #3.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3032,
+            "duration": 101.06666666666666
+        },
+        {
+            "name": "31.08.2022 segment #4.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3692,
+            "duration": 123.06666666666666
+        },
+        {
+            "name": "29.07.2022 segment #0.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 3900,
+            "duration": 156.0
+        },
+        {
+            "name": "29.07.2022 segment #1.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 3400,
+            "duration": 136.0
+        },
+        {
+            "name": "29.07.2022 segment #2.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 4300,
+            "duration": 172.0
+        },
+        {
+            "name": "29.07.2022 segment #3.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 3700,
+            "duration": 148.0
+        },
+        {
+            "name": "29.07.2022 segment #4.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 4325,
+            "duration": 173.0
+        },
+        {
+            "name": "29.07.2022 segment #5.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 3375,
+            "duration": 135.0
+        },
+        {
+            "name": "29.07.2022 segment #6.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 2725,
+            "duration": 109.0
+        },
+        {
+            "name": "29.07.2022 segment #7.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 1849,
+            "duration": 73.96
+        },
+        {
+            "name": "30.07.2022 segment #0.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 2450,
+            "duration": 98.0
+        },
+        {
+            "name": "30.07.2022 segment #1.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 4475,
+            "duration": 179.0
+        },
+        {
+            "name": "30.07.2022 segment #2.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 4100,
+            "duration": 164.0
+        },
+        {
+            "name": "30.07.2022 segment #3.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 3275,
+            "duration": 131.0
+        },
+        {
+            "name": "30.07.2022 segment #4.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 2715,
+            "duration": 108.6
+        },
+        {
+            "name": "31.07.2022 segment #0.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 1022,
+            "duration": 34.06666666666667
+        },
+        {
+            "name": "31.07.2022 segment #1.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 5162,
+            "duration": 172.06666666666666
+        },
+        {
+            "name": "31.07.2022 segment #2.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 6032,
+            "duration": 201.06666666666666
+        },
+        {
+            "name": "31.07.2022 segment #3.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 2492,
+            "duration": 83.06666666666666
+        },
+        {
+            "name": "31.07.2022 segment #4.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4172,
+            "duration": 139.06666666666666
+        },
+        {
+            "name": "01.09.2022 segment #0.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 2875,
+            "duration": 115.0
+        },
+        {
+            "name": "01.09.2022 segment #1.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 2350,
+            "duration": 94.0
+        },
+        {
+            "name": "01.09.2022 segment #2.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 3425,
+            "duration": 137.0
+        },
+        {
+            "name": "01.09.2022 segment #3.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 3325,
+            "duration": 133.0
+        },
+        {
+            "name": "01.09.2022 segment #4.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 3100,
+            "duration": 124.0
+        },
+        {
+            "name": "01.09.2022 segment #5.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 4750,
+            "duration": 190.0
+        },
+        {
+            "name": "01.09.2022 segment #6.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1024,
+                576
+            ],
+            "frame_count": 3350,
+            "duration": 134.0
+        },
+        {
+            "name": "02.09.2022 segment #0.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4232,
+            "duration": 141.06666666666666
+        },
+        {
+            "name": "02.09.2022 segment #1.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 5492,
+            "duration": 183.06666666666666
+        },
+        {
+            "name": "02.09.2022 segment #2.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3422,
+            "duration": 114.06666666666666
+        },
+        {
+            "name": "02.09.2022 segment #3.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3902,
+            "duration": 130.06666666666666
+        },
+        {
+            "name": "02.09.2022 segment #4.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3872,
+            "duration": 129.06666666666666
+        },
+        {
+            "name": "02.09.2022 segment #5.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4712,
+            "duration": 157.06666666666666
+        },
+        {
+            "name": "03.09.2022 segment #0.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3512,
+            "duration": 117.06666666666666
+        },
+        {
+            "name": "03.09.2022 segment #1.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 5522,
+            "duration": 184.06666666666666
+        },
+        {
+            "name": "03.09.2022 segment #2.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3902,
+            "duration": 130.06666666666666
+        },
+        {
+            "name": "03.09.2022 segment #3.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4322,
+            "duration": 144.06666666666666
+        },
+        {
+            "name": "03.09.2022 segment #4.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3152,
+            "duration": 105.06666666666666
+        },
+        {
+            "name": "03.09.2022 segment #5.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 5072,
+            "duration": 169.06666666666666
+        },
+        {
+            "name": "04.09.2022 segment #0.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 2882,
+            "duration": 96.06666666666666
+        },
+        {
+            "name": "04.09.2022 segment #1.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4412,
+            "duration": 147.06666666666666
+        },
+        {
+            "name": "04.09.2022 segment #2.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4862,
+            "duration": 162.06666666666666
+        },
+        {
+            "name": "04.09.2022 segment #3.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 5642,
+            "duration": 188.06666666666666
+        },
+        {
+            "name": "04.09.2022 segment #4.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 2822,
+            "duration": 94.06666666666666
+        },
+        {
+            "name": "04.09.2022 segment #5.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3692,
+            "duration": 123.06666666666666
+        },
+        {
+            "name": "05.09.2022 segment #0.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3722,
+            "duration": 124.06666666666666
+        },
+        {
+            "name": "05.09.2022 segment #1.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3002,
+            "duration": 100.06666666666666
+        },
+        {
+            "name": "05.09.2022 segment #2.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4712,
+            "duration": 157.06666666666666
+        },
+        {
+            "name": "05.09.2022 segment #3.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 5252,
+            "duration": 175.06666666666666
+        },
+        {
+            "name": "06.09.2022 segment #0.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3602,
+            "duration": 120.06666666666666
+        },
+        {
+            "name": "06.09.2022 segment #1.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 5672,
+            "duration": 189.06666666666666
+        },
+        {
+            "name": "06.09.2022 segment #2.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4802,
+            "duration": 160.06666666666666
+        },
+        {
+            "name": "06.09.2022 segment #3.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 5912,
+            "duration": 197.06666666666666
+        },
+        {
+            "name": "06.09.2022 segment #4.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4802,
+            "duration": 160.06666666666666
+        },
+        {
+            "name": "06.09.2022 segment #5.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3962,
+            "duration": 132.06666666666666
+        },
+        {
+            "name": "07.09.2022 segment #0.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3242,
+            "duration": 108.06666666666666
+        },
+        {
+            "name": "07.09.2022 segment #1.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4262,
+            "duration": 142.06666666666666
+        },
+        {
+            "name": "07.09.2022 segment #2.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3812,
+            "duration": 127.06666666666666
+        },
+        {
+            "name": "07.09.2022 segment #3.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3542,
+            "duration": 118.06666666666666
+        },
+        {
+            "name": "07.09.2022 segment #4.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4442,
+            "duration": 148.06666666666666
+        },
+        {
+            "name": "08.09.2022 segment #0.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 5072,
+            "duration": 169.06666666666666
+        },
+        {
+            "name": "08.09.2022 segment #1.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3842,
+            "duration": 128.06666666666666
+        },
+        {
+            "name": "08.09.2022 segment #2.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 2762,
+            "duration": 92.06666666666666
+        },
+        {
+            "name": "08.09.2022 segment #3.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4442,
+            "duration": 148.06666666666666
+        },
+        {
+            "name": "08.09.2022 segment #4.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 5462,
+            "duration": 182.06666666666666
+        },
+        {
+            "name": "08.09.2022 segment #5.mp4",
+            "fps": 30.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4052,
+            "duration": 135.06666666666666
+        },
+        {
+            "name": "09.09.2022 segment #0.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4727,
+            "duration": 189.08
+        },
+        {
+            "name": "09.09.2022 segment #1.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4477,
+            "duration": 179.08
+        },
+        {
+            "name": "09.09.2022 segment #2.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 3327,
+            "duration": 133.08
+        },
+        {
+            "name": "09.09.2022 segment #3.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 4027,
+            "duration": 161.08
+        },
+        {
+            "name": "09.09.2022 segment #4.mp4",
+            "fps": 25.0,
+            "resolution": [
+                1280,
+                720
+            ],
+            "frame_count": 2577,
+            "duration": 103.08
+        },
+        {
+            "name": "10.09.2022 segment #0.mp4",
+            "fps": 25.0,
+            "resolution": [
+                960,
+                540
+            ],
+            "frame_count": 3602,
+            "duration": 144.08
+        },
+        {
+            "name": "10.09.2022 segment #1.mp4",
+            "fps": 25.0,
+            "resolution": [
+                960,
+                540
+            ],
+            "frame_count": 4652,
+            "duration": 186.08
+        },
+        {
+            "name": "10.09.2022 segment #2.mp4",
+            "fps": 25.0,
+            "resolution": [
+                960,
+                540
+            ],
+            "frame_count": 4277,
+            "duration": 171.08
+        },
+        {
+            "name": "11.09.2022 segment #0.mp4",
+            "fps": 25.0,
+            "resolution": [
+                960,
+                540
+            ],
+            "frame_count": 3377,
+            "duration": 135.08
+        },
+        {
+            "name": "11.09.2022 segment #1.mp4",
+            "fps": 25.0,
+            "resolution": [
+                960,
+                540
+            ],
+            "frame_count": 4427,
+            "duration": 177.08
+        },
+        {
+            "name": "11.09.2022 segment #2.mp4",
+            "fps": 25.0,
+            "resolution": [
+                960,
+                540
+            ],
+            "frame_count": 4727,
+            "duration": 189.08
+        },
+        {
+            "name": "11.09.2022 segment #3.mp4",
+            "fps": 25.0,
+            "resolution": [
+                960,
+                540
+            ],
+            "frame_count": 3927,
+            "duration": 157.08
+        },
+        {
+            "name": "11.09.2022 segment #4.mp4",
+            "fps": 25.0,
+            "resolution": [
+                960,
+                540
+            ],
+            "frame_count": 2152,
+            "duration": 86.08
+        },
+        {
+            "name": "11.09.2022 segment #5.mp4",
+            "fps": 25.0,
+            "resolution": [
+                960,
+                540
+            ],
+            "frame_count": 3102,
+            "duration": 124.08
+        },
+        {
+            "name": "11.09.2022 segment #6.mp4",
+            "fps": 25.0,
+            "resolution": [
+                960,
+                540
+            ],
+            "frame_count": 3377,
+            "duration": 135.08
+        },
+        {
+            "name": "11.09.2022 segment #7.mp4",
+            "fps": 25.0,
+            "resolution": [
+                960,
+                540
+            ],
+            "frame_count": 3777,
+            "duration": 151.08
+        }
+    ]
+}

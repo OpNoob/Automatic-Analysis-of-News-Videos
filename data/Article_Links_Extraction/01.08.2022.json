@@ -1,0 +1,793 @@
+{
+    "News date": "01.08.2022",
+    "Transcripts": [
+        {
+            "Time stamp": "01:30",
+            "URL MLT": "N/A",
+            "URL ENG": "N/A",
+            "Duration": "N/A",
+            "transcript mlt": {},
+            "transcript eng": {}
+        },
+        {
+            "Time stamp": "05:43",
+            "URL MLT": "N/A",
+            "URL ENG": "N/A",
+            "Duration": "N/A",
+            "transcript mlt": {},
+            "transcript eng": {}
+        },
+        {
+            "Time stamp": "06:25",
+            "URL MLT": "https://tvmnews.mt/news/il-popolazzjoni-tizdied-b25-fl-ahhar-10-snin-ghal-519562/",
+            "URL ENG": "https://tvmnews.mt/en/news/population-increases-by-25-over-last-10-years-to-519562/",
+            "Duration": "02:41",
+            "transcript mlt": {
+                "Title": "Il-popolazzjoni ti\u017cdied b\u201925% fl-a\u0127\u0127ar 10 snin g\u0127al 519,562",
+                "url": "https://tvmnews.mt/news/il-popolazzjoni-tizdied-b25-fl-ahhar-10-snin-ghal-519562/",
+                "Transcript": [
+                    {
+                        "text": "Hekk kif dalg\u0127odu l-Uffi\u010b\u010bju Nazzjonali tal-Istatistika ppubblika r-ri\u017cultati ta\u010b-\u010bensiment 2022 jirri\u017culta li l-popolazzjoni f\u2019Malta kibret bi kwa\u017ci kwart fl-a\u0127\u0127ar 10 snin u llum tg\u0127odd 519,562.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Jirri\u017culta wkoll li f\u2019Malta hawn aktar ir\u0121iel milli nisa g\u0127al kuntrarju ta\u2019 dak li storikament kien gie rre\u0121istrat fil-passat hekk kif i\u010b-\u010bensiment ta\u2019 qabel kien juri li hawn ferm aktar nisa mill-ir\u0121iel.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Minn dan i\u010b-\u010bensiment jo\u0127ro\u0121 ukoll li mhux talli Malta huwa l-aktar pajji\u017c b\u2019densit\u00e0 g\u0127olja fl-UE i\u017cda kompliet ti\u017cdied tant li hawn 1,649 persuna g\u0127al kull kilometru kwadru. Il-medja Ewropea hija ta\u2019 109 kull kilometru kwadru.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "I\u010b-\u010bensiment juri li waqt li qabel kienet l-Isla l-aktar post fl-Ewropa fejn hemm nies g\u0127ad-daqs tal-post issa hija Tas-Sliema li telg\u0127et fil-qu\u010b\u010bata b\u2019aktar minn 15,000 persuna g\u0127al kull kilometru kwadru.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "L-akbar lokalit\u00e0 issa hija San Pawl il-Ba\u0127ar b\u201932,042 resident meta fl-2005 kienet fil-5 post u fl-2011 fit-3. Wara San Pawl il-Ba\u0127ar ji\u0121u Birkirkara u l-Mosta.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Mi\u010b-\u010bensiment jo\u0127ro\u0121 ukoll aktar minn wie\u0127ed minn kull \u0127ames persuni f\u2019Malta huma barannin. Fil-pajji\u017c hawn 115,449 barrani, \u0127ames darbiet i\u010b-\u010bifra rre\u0121istrata fl-2019, bil-ma\u0121\u0121oranza jg\u0127ixu fit-Tramuntana u fit-Tramuntana tal-Port il-Kbir.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    }
+                ],
+                "Extracted On": "25/Feb/2023"
+            },
+            "transcript eng": {
+                "Title": "Population increases by 25% over last 10 years to 519,562",
+                "url": "https://tvmnews.mt/en/news/population-increases-by-25-over-last-10-years-to-519562/",
+                "Transcript": [
+                    {
+                        "text": "This morning the National Office of Statistics published the results of the Census 2022, which shows that the population in Malta has grown by almost one-fourth in the last ten years and today the population stands at 519,562.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "In Malta there are more men than women, contrary to what was historically registered in the past as the previous census showed that there are more women than men.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "From this census it emerges that Malta is not only the country with the densest population in the EU but has continued to increase so much that there are now 1,649 people for every kilometre squared. The European average is of 109 every km squared.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "The census shows that while before L-Isla had the highest density in Europe, now the densest place is Sliema with more than 15,000 people per km squared.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "The largest locality is St Paul\u2019s Bay with 32,042 residents while in 2006 it was in fifth place and in 2011 it was in third place. The most populated places after St Paul\u2019s Bay are B\u2019Kara and Mosta.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "More than one in five people in Malta are of foreign nationality. There are115,449 foreigners, five times more than the figure registered in 2019, with the majority living in the North and Northern Harbour region.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    }
+                ],
+                "Extracted On": "25/Feb/2023"
+            }
+        },
+        {
+            "Time stamp": "09:40",
+            "URL MLT": "N/A",
+            "URL ENG": "N/A",
+            "Duration": "N/A",
+            "transcript mlt": {},
+            "transcript eng": {}
+        },
+        {
+            "Time stamp": "12:50",
+            "URL MLT": "N/A",
+            "URL ENG": "N/A",
+            "Duration": "N/A",
+            "transcript mlt": {},
+            "transcript eng": {}
+        },
+        {
+            "Time stamp": "17:05",
+            "URL MLT": "N/A",
+            "URL ENG": "N/A",
+            "Duration": "N/A",
+            "transcript mlt": {},
+            "transcript eng": {}
+        },
+        {
+            "Time stamp": "18:09",
+            "URL MLT": "https://tvmnews.mt/news/ara-tlieta-evakwati-minn-fuq-jott-li-nqered-bin-nirien-hdejn-kemmuna/",
+            "URL ENG": "https://tvmnews.mt/en/news/watch-three-people-evacuated-from-yacht-which-was-destroyed-by-fire-near-comino/",
+            "Duration": "00:50",
+            "transcript mlt": {
+                "Title": "ARA: Tlieta evakwati minn fuq jott li nqered bin-nirien \u0127dejn Kemmuna",
+                "url": "https://tvmnews.mt/news/ara-tlieta-evakwati-minn-fuq-jott-li-nqered-bin-nirien-hdejn-kemmuna/",
+                "Transcript": [
+                    {
+                        "text": "Tliet persuna \u0121ew salvati wara li l-jott li kienu fuqu \u0127a n-nar \u0127dejn Kemmuna.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "L-in\u010bident se\u0127\u0127 matul dan il-lejl vi\u010bin il-bajja ta\u2019 Santa Marija.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Minn informazzjoni li g\u0127andu TVMnews.mt jirri\u017culta li l-jott fih madwar 80 pied.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "It-3 persuni li kienu fuq id-dg\u0127ajsa tni\u017c\u017clu fuq dinghy waqt li nies fil-qrib ukoll taw l-g\u0127ajnuna.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "In-nirien intfew mill-pumpieri tad-Dipartiment tal-Protezzjoni \u010aivili b\u2019dinghy apposta.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Kelliem g\u0127all-Pulizija qalilna li \u0127add minnhom ma we\u0121\u0121a\u2019 g\u0127alkemm kellhom xokk fuqhom.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    }
+                ],
+                "Extracted On": "25/Feb/2023"
+            },
+            "transcript eng": {
+                "Title": "WATCH: Three people evacuated from yacht which was destroyed by fire near Comino",
+                "url": "https://tvmnews.mt/en/news/watch-three-people-evacuated-from-yacht-which-was-destroyed-by-fire-near-comino/",
+                "Transcript": [
+                    {
+                        "text": "Three people were rescued after the yacht caught fire near Comino",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "The accident happened last night near Santa Maria bay.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "From information obtained by TVMnews.mt it results that this was an 80 foot yacht.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "The three people on the yacht were taken on a dinghy while people nearby also called for help.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "The fire was put out by firemen from the Department of Civil Protection using a special dinghy.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "A Police spokesman said that no one was injured although they were suffering from shock.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    }
+                ],
+                "Extracted On": "25/Feb/2023"
+            }
+        },
+        {
+            "Time stamp": "19:10",
+            "URL MLT": "https://tvmnews.mt/news/l-ewwel-vapur-bil-qamharrun-jitlaq-mill-ukrajna/",
+            "URL ENG": "https://tvmnews.mt/en/news/grain-ship-leaves-ukraine-port-for-the-first-time-since-russian-invasion/",
+            "Duration": "N/A",
+            "transcript mlt": {
+                "Title": "L-ewwel vapur bil-qam\u0127arrun jitlaq mill-Ukrajna",
+                "url": "https://tvmnews.mt/news/l-ewwel-vapur-bil-qamharrun-jitlaq-mill-ukrajna/",
+                "Transcript": [
+                    {
+                        "text": "\u0126alla l-Ukrajna, mindu sar il-ftehim mar-Russja, l-ewwel vapur mimli qam\u0127arrun.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Il-vapur, bl-isem \u201cRazoni\u201d, sejjer lejn il-Libanu b\u201926,000 tunellata qam\u0127arrun.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Qabel jasal il-Libanu l-vapur se ji\u0121i spezzjonat fit-Turkija g\u0127ada t-Tlieta.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Ir-Russja kienet ilha timblokka l-portijiet Ukreni minn Frar li g\u0127adda.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "L-Ukrajna hija wa\u0127da mill-ikbar produtturi u esportaturi ta\u2019 qam\u0127 fid-dinja.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "It-Turkija kienet il-medjatur ewlieni biex l-Ukrajna u r-Russja waslu g\u0127al dan il-ftehim.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Il-ftehim huwa g\u0127al 120 jum u fih kienet involuta wkoll in-Nazzjonijiet Maqg\u0127uda.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Il-pajji\u017c madwar l-Ewropa u d-dinja qed jittamaw li l-ftehim iwassal g\u0127al ro\u0127s fil-prezz tal-ikel.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    }
+                ],
+                "Extracted On": "25/Feb/2023"
+            },
+            "transcript eng": {
+                "Title": "Grain ship leaves Ukraine Port for the first time since Russian invasion",
+                "url": "https://tvmnews.mt/en/news/grain-ship-leaves-ukraine-port-for-the-first-time-since-russian-invasion/",
+                "Transcript": [
+                    {
+                        "text": "A grain ship has left Ukraine for the first time, since the Russian invasion following an agreement with Russian.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "The ship, \u201cRazoni\u201d, is on its way to Tripoli via Lebanon with 26,000 metric tons of corn.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Before arriving in Lebanon the ship will be inspected in Turkey tomorrow \u2013 Tuesday.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Russia had been blockading Ukrainian ports since last February.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Ukraine is one of the largest producers and exporters of wheat worldwide.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Turkey was the main mediator for Ukraine and Russia to reach this agreement.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "The agreement is for 120 days and the United Nations was also involved.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Countries in Europe and all over the world are hoping that the agreement will lead to a reduction in the price of food.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    }
+                ],
+                "Extracted On": "25/Feb/2023"
+            }
+        },
+        {
+            "Time stamp": "19:55",
+            "URL MLT": "N/A",
+            "URL ENG": "N/A",
+            "Duration": "N/A",
+            "transcript mlt": {},
+            "transcript eng": {}
+        },
+        {
+            "Time stamp": "20:30",
+            "URL MLT": "N/A",
+            "URL ENG": "N/A",
+            "Duration": "N/A",
+            "transcript mlt": {},
+            "transcript eng": {}
+        },
+        {
+            "Time stamp": "21:24",
+            "URL MLT": "https://tvmnews.mt/news/melvin-theuma-jghid-li-ghadda-flus-lil-mario-degiorgio-ghax-kien-rikattat/",
+            "URL ENG": "https://tvmnews.mt/en/news/melvin-theuma-testifies-that-he-passed-on-money-to-mario-degiorgio-because-he-felt-threatened/",
+            "Duration": "N/A",
+            "transcript mlt": {
+                "Title": "Melvin Theuma jg\u0127id li g\u0127adda flus lil Mario Degiorgio g\u0127ax kien rikattat",
+                "url": "https://tvmnews.mt/news/melvin-theuma-jghid-li-ghadda-flus-lil-mario-degiorgio-ghax-kien-rikattat/",
+                "Transcript": [
+                    {
+                        "text": "Melvin Theuma qal li g\u0127adda l-flus lil Mario Degiorgio biex jg\u0127addihom lil \u0127utu George u Alfred Degiorgio fil-\u0127abs g\u0127ax \u0127assu mhedded.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Theuma kien qed jixhed quddiem il-Ma\u0121istrat Donatella Frendo Dimech hekk kif din bdiet tisma\u2019 l-kumpilazzjoni ta\u2019 Mario Degiorgio li jinsab mixli b\u2019\u0127asil ta\u2019 flus u rikatt.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Degiorgio huwa \u0127u \u017c-\u017cew\u0121t ir\u0121iel li jinsabu mixlijin bil-qtil ta\u2019 Daphne Caruana Galizia u b\u0127alissa jinsab il-\u0127abs fejn hemm ukoll l-istess \u0127utu.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Theuma ng\u0127ata ma\u0127fra presidenzjali b\u2019rabta ma\u2019 dan il-qtil li dwaru hemm akku\u017cat b\u2019kompli\u010bit\u00e0 Yorgen Fenech waqt li Vince Muscat qed jiskonta piena ta\u2019 15-il sena \u0127abs wara li ammetta l-involviment fil-qtil.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Fix-xhieda tieg\u0127u llum Theuma sostna li huwa qatt ma qal lil Mario Degiorgio li kien il-middleman fil-qtil ta\u2019 Caruana Galizia u qatt ma semma lil Yorgen Fenech.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Huwa qal li Mario Degiorgio kien jitolbu l-flus biex jit\u0127allsu spejje\u017c ta\u2019 George Degiorgio fosthom dak tal-iskola tat-tfal u kien jiltaqa\u2019 mal-akku\u017cat f\u2019karozza fil-Marsa jew fid-dar tal-istess Mario Degiorgio fl-istess lokalit\u00e0.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Theuma qal li \u0121ieli g\u0127adda madwar \u20ac200 fil-\u0121img\u0127a minn butu lill-a\u0127wa George u Alfred Degiorgio barra l-\u20ac2,500 li tah Yorgen Fenech g\u0127alihom.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Huwa \u017cied li Mario Degiorgio kien jg\u0127addilu ir\u010bevuti ma\u0127ru\u0121a mill-Fa\u010bilit\u00e0 Korrettiva ta\u2019 Kordin li w\u0127ud minnhom kien jg\u0127addihom lil Yorgen Fenech b\u0127ala prova li g\u0127addew il-flus.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Theuma sostna li George Degiorgio kien jg\u0127idlu biex jib\u017ca\u2019 min-nies ta\u2019 \u0121ewwa mhux dawk ta\u2019 barra u \u0127assu dahru mal-\u0127ajt tant li baqa\u2019 jag\u0127ti lil Mario Degiorgio dak li kien jitolbu g\u0127ax \u0127assu rikattat.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "L-Ispettur Lianne Bonello, li qed tmexxi l-prosekuzzjoni, ukoll xehdet fejn qalet li Theuma stqarr mag\u0127ha li kien baqa\u2019 jg\u0127addi flus lil Mario Degiorgio g\u0127ax be\u017ca\u2019 li ji\u0121i tradut.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Hija semmiet kif Theuma qalilha li Mario Degiorgio kien jie\u0127u flus g\u0127alih ukoll u bihom xtara kelb tar-razza Chow Chow mi\u010b-\u010aina g\u0127al \u20ac5,000.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "L-Ispettur Bonello qalet li hemm 3 depo\u017citi tal-banek li juru li Mario Degiorgio bag\u0127at flus i\u010b-\u010aina g\u0127al dan il-eb u li g\u0127adda \u20ac25,000 lil \u0127utu fil-\u0127abs.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Hija \u017ciedet li waqt tfittxija fid-dar ta\u2019 Mario Degiorgio, li ilu ma ja\u0127dem mill-2004, sabu \u20ac8,050 fi flus kontant, i\u010b-\u010bertifikat tal-pedigree tal-kelb u g\u0127add ta\u2019 CDs li g\u0127ad mhux mag\u0127ruf x\u2019fihom.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Il-prosekuzzjoni qed titmexxa\u2019 wkoll mill-Ispettur Christopher Ellul u mill-Avukati Francesco Refalo u Marthese Grech mill-Uffi\u010b\u010bju tal-Avukat \u0120enerali waqt li l-Avukati William Cuschieri u Lennox Vella qed jiddefendu lil Mario Degiorgio.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Ara wkoll:",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    }
+                ],
+                "Extracted On": "25/Feb/2023"
+            },
+            "transcript eng": {
+                "Title": "Melvin Theuma testifies that he passed on money to Mario Degiorgio because he felt threatened",
+                "url": "https://tvmnews.mt/en/news/melvin-theuma-testifies-that-he-passed-on-money-to-mario-degiorgio-because-he-felt-threatened/",
+                "Transcript": [
+                    {
+                        "text": "Melvin Theuma said he handed over money to Mario Degiorgio for him to pass on to his brothers George and Alfred Degiorgio in prison, because he felt threatened.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Theuma was testifying before Magistrate Donatella Frendo Dimech during the criminal inquiry of Mario Degiorgio who has been charged with money laundering and blackmail.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Degiorgio is the brother of the two men who are charged with the murder of Daphne Caruana Galizia and is currently in prison as are his brothers.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Theuma was granted a presidential pardon in connection with the murder in which Yorgen Fenech stands accused of complicity while Vince Muscat is serving a 15-year prison sentence after admitting his involvement in the murder.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "In today\u2019s testimony Theuma claimed that he never told Mario Degiorgio that he was the middleman in the murder of Caruana Galizia and never mentioned Yorgen Fenech.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "He said that Mario Degiorgio used to ask him for money to cover George Degiorgio\u2019s expenses, including those related to school fees, and he used to meet the accused in a car in Marsa or at Mario Degiorgio\u2019s house in the same locality.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Theuma said that he sometimes passed on \u20ac200 a week of his own money for the brothers George and Alfred Degiorgio apart from the \u20ac2,500 that Yorgen Fenech had given him for them.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "He added that Mario Degiorgio used to hand him receipts issued by the Corradino Correctional Facility, some of which he used to hand over to Yorgen Fenech as proof that the money had been passed on.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Theuma claimed that George Degiorgio used to tell him to be afraid of the people on the inside and he felt that his back was against the wall so much that he kept giving Mario Degiorgio what he was asking for because he felt blackmailed.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Inspector Lianne Bonello, who is leading the prosecution, also testified and said that Theuma had told her that he had kept passing money to Mario Degiorgio because he was afraid of being betrayed.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "She mentioned that Theuma told her that Mario Degiorgio used to take money for himself and had bought a Chow Chow breed dog from China for \u20ac5,000.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Inspector Bonello said that there are 3 bank deposits that show that Mario Degiorgio sent money to China for this crime and that he passed \u20ac25,000 to his brothers in prison.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "She added that a search of Mario Degiorgio\u2019s house, who has been unemployed since 2004, yielded \u20ac8,050 in cash, the dog\u2019s pedigree certificate and a number of CDs, the contents of which have not yet been identified.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Inspector Christopher Ellul and Dr Francesco Refalo and Dr Marthese Grech from the Attorney General\u2019s Office are prosecuting, while Dr William Cuschieri and Dr Lennox Vella are defending Mario Degiorgio.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "See Also:",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    }
+                ],
+                "Extracted On": "25/Feb/2023"
+            }
+        },
+        {
+            "Time stamp": "27;12",
+            "URL MLT": "https://tvmnews.mt/news/spetturi-tas-sajd-tal-ue-mil-lum-jibdew-spezzjonijiet-barra-l-ibhra-maltin/",
+            "URL ENG": "https://tvmnews.mt/en/news/eu-fisheries-inspectors-begin-inspections-outside-of-maltese-waters-on-efca-vessel/",
+            "Duration": "02:35",
+            "transcript mlt": {
+                "Title": "Spetturi tas-sajd tal-UE mil-lum jibdew spezzjonijiet barra l-ib\u0127ra Maltin",
+                "url": "https://tvmnews.mt/news/spetturi-tas-sajd-tal-ue-mil-lum-jibdew-spezzjonijiet-barra-l-ibhra-maltin/",
+                "Transcript": [
+                    {
+                        "text": "Spetturi tas-sajd tal-Unjoni Ewropea, fosthom spetturi Maltin, huma parti mill-ekwipa\u0121\u0121 tal-lan\u010ba Lundy Sentinel li mil-lum se jibda l-ispezzjonijiet tas-sajd tal-ib\u0127ra barra \u017c-\u017cona Maltija.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "G\u0127all-ewwel darba l-Lundy Sentinel da\u0127let Malta biex minn hawn titlaq g\u0127all-ispezzjonijiet fuq is-sajd tal-lampuki hekk kif beda x-xahar t\u2019Awwissu.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Il-Lundy Sentinel hija lan\u010ba tal-A\u0121enzija Ewropea g\u0127all-kontroll tas-sajd li tag\u0127mel spezzjonijiet fuq bastimenti tas-sajd kemm Ewropej u dawk li mhumiex f\u2019diversi ib\u0127ra fosthom fl-Atlantiku l-Mediterran.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Wara \u0127idma ta\u2019 3 snin Malta rnexxielha \u0121\u0121ib lejn il-Mediterran il-lan\u010ba Lundy Sentinel \u2013 patrol vessel tal-A\u0121enzija Ewropea g\u0127all-Kontroll tas-Sajd (EFCA).",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Din il-lan\u010ba qed ter\u0121a\u2019 topera fil-Mediterran biex tag\u0127mel spezzjonijiet fuq bastimenti tas-sajd. Waqt l-ispezzjonijiet isiru kontrolli f\u2019\u017coni spe\u010bifi\u010bi b\u0127al Sqallija fi sta\u0121uni differenti fosthom g\u0127at-tonn, pixxispad u lampuki.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Id-Direttur tad-Dipartiment tas-Sajd, Gilbert Balzan, qal lil TVMnews li l-ispezzjonijiet mhux se jieqfu biss fl-ib\u0127ra tal-Unjoni Ewropea.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Il-bastiment itajjar ukoll il-bandiera tal GFCM li b\u2019hekk turi wkoll li \u010bertu spezzjonijiet jistg\u0127u jsiru fuq dawn il-pajji\u017ci kollha b\u0127al Tune\u017cini, Libjani u bastimenti o\u0127rajn.",
+                        "author": "Gilbert Balzan",
+                        "type": 1,
+                        "type_str": "QUOTE"
+                    },
+                    {
+                        "text": "Spetturi Maltin huma parti mill-ekwipa\u0121\u0121 biex jissa\u0127\u0127a\u0127 il-monitora\u0121\u0121 tal-ib\u0127ra Maltin bejn it-12 u l-25 mil u lis-sajjieda barra \u017c-\u017cona Maltija.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Is-Segretarju Parlamentari g\u0127as-Sajd u l-Akwakultura, Alicia Bugeja Said, qalet li wa\u0127da mill-akbar problemi li jaffa\u010b\u010bjaw is-sajjieda Maltin hija meta jibda l-ista\u0121un tal-lampuki.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Min\u0127abba l-fatt li rajna sena wara l-o\u0127ra t-Tune\u017cini jistadu fuq i\u010b-\u010bimi tal-Maltin, b\u2019dan il-mod a\u0127na naraw li l-li\u0121i li qieg\u0127da hemm g\u0127all-Maltin kif ukoll g\u0127al dawn il-pajji\u017ci li mhumiex fl-Unjoni Ewropea jridu wkoll ikunu konformi ma\u2019 dawn il-li\u0121ijiet.",
+                        "author": "Alicia Bugeja Said",
+                        "type": 1,
+                        "type_str": "QUOTE"
+                    },
+                    {
+                        "text": "Min ma josservax ir-regoli, l-A\u0121enzija Ewropea g\u0127all-Kontroll tas-Sajd g\u0127andha jedd tmexxi r-rapporti ne\u010bessarji biex jin\u0127argu multi u jekk ikun il-ka\u017c il-bastimenti jew dg\u0127ajjes li jinqabdu jiksru l-li\u0121i jistg\u0127u jitpo\u0121\u0121ew fuq il-lista s-sewda jekk jibqg\u0127u jirrepetu l-istess ksur.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Jean Paul Cesare, sajjied Malti, i\u0127ares lejn dan il-monitora\u0121\u0121 b\u0127ala wie\u0127ed b\u017connju\u017c.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Dan il-bastiment se jissalvagwardja lis-sajjieda u jistg\u0127u jserr\u0127u naqra rashom milli jkollhom dik il-problema jmorru biex jaqilg\u0127u l-g\u0127ajxien tag\u0127hom u jsibu l-kannizzati midjurin di\u0121\u00e0, naraw din is-sena bil-bastiment tal-Ewropa ma jkunx hawn dik il-problema li sajjied imur x\u2019jaqla\u2019 x\u2019jiekol u jsib il-problema tat-Tune\u017cini.",
+                        "author": "Jean Paul Cesare \u2013 sajjied",
+                        "type": 1,
+                        "type_str": "QUOTE"
+                    },
+                    {
+                        "text": "Il-Lundy Setinal mistennija ti\u0121i Malta darba fis-sena.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Imwaqqfa fl-2005 l-A\u0121enzija Ewropea g\u0127all-Kontroll tas-Sajd hija responsabbli mill-kordinazzjoni fuq il-kontroll tas-sajd u tg\u0127in lis-sajjieda fil-pajji\u017ci membri tal-Unjoni Ewropea jimxu i\u017cjed mar-regoli Ewropej.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    }
+                ],
+                "Extracted On": "25/Feb/2023"
+            },
+            "transcript eng": {
+                "Title": "EU fisheries inspectors begin inspections outside of Maltese waters on EFCA vessel",
+                "url": "https://tvmnews.mt/en/news/eu-fisheries-inspectors-begin-inspections-outside-of-maltese-waters-on-efca-vessel/",
+                "Transcript": [
+                    {
+                        "text": "European Union fisheries inspectors, including Maltese inspectors, form part of the Lundy Sentinel ferry crew, set to start fishing inspections of waters outside the Maltese zone, starting today.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "The Lundy Sentinel entered Malta for the first time and is expected to depart for inspections in connection with the fishing of lampuki, now that the month of August has begun.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "The Lundy Sentinel is ferry rented by the European Fisheries Control Agency that carries out inspections on both European and non-European fishing vessels in various seas including the Atlantic and the Mediterranean.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "After 3 years of work, Malta managed to bring the patrol vessel to the Mediterranean.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "This ferry is once again operating in the Mediterranean to carry out inspections on fishing vessels. During the inspections checks are carried out in specific areas such as Sicily, in different seasons, for tuna, swordfish and lampuki among others.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "The Director of the Fisheries Department, Gilbert Balzan, told TVMnews that the inspections will not be limited to the waters of the European Union.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "The ship also flies the GFCM flag which also indicates that certain inspections can be carried out on all countries indicated such as Tunisians, Libyans and other ships.",
+                        "author": "Gilbert Balzan",
+                        "type": 1,
+                        "type_str": "QUOTE"
+                    },
+                    {
+                        "text": "Maltese inspectors are part of the crew to strengthen the monitoring of Maltese waters between an area of 12 and 25 miles, and of fishermen outside the Maltese zone.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "The Parliamentary Secretary for Fisheries and Aquaculture, Alicia Bugeja Said, said that the lampuki season posed one of the biggest problems for Maltese fishermen.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Year after year we have observed the Tunisians fishing on Maltese nets, so we try to ensure that the law which applies to the Maltese, also applies to these countries that are not in the European Union.",
+                        "author": "Alicia Bugeja Said",
+                        "type": 1,
+                        "type_str": "QUOTE"
+                    },
+                    {
+                        "text": "The European Fisheries Control Agency has the right to issue the necessary reports and to issue fines in respect of those who do not observe the rules. Vessels or boats that are caught breaking the law can be placed on the blacklist if they keep repeating the same violation.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Jean Paul Cesare, Maltese fisherman regards the monitoring as necessary",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "This vessel will safeguard the fishermen and they can rest assured that they won\u2019t face problems when they try to earn an honest living. This year as a result of the European ship there won\u2019t be that problem \u2013 i.e. Maltese fisherman facing problems with the Tunisians.",
+                        "author": "Jean Paul Cesare \u2013 fisherman",
+                        "type": 1,
+                        "type_str": "QUOTE"
+                    },
+                    {
+                        "text": "The Lundy Setinel is expected to come to Malta once a year.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    },
+                    {
+                        "text": "Established in 2005, the European Agency for Fisheries Control is responsible for coordinating fisheries control and helps fishermen in the member countries of the European Union become more compliant with European rules.",
+                        "author": null,
+                        "type": 0,
+                        "type_str": "NORMAL"
+                    }
+                ],
+                "Extracted On": "25/Feb/2023"
+            }
+        },
+        {
+            "Time stamp": "30:22",
+            "URL MLT": "N/A",
+            "URL ENG": "N/A",
+            "Duration": "N/A",
+            "transcript mlt": {},
+            "transcript eng": {}
+        },
+        {
+            "Time stamp": "33:28",
+            "URL MLT": "N/A",
+            "URL ENG": "N/A",
+            "Duration": "N/A",
+            "transcript mlt": {},
+            "transcript eng": {}
+        },
+        {
+            "Time stamp": "34:06",
+            "URL MLT": "N/A",
+            "URL ENG": "N/A",
+            "Duration": "N/A",
+            "transcript mlt": {},
+            "transcript eng": {}
+        },
+        {
+            "Time stamp": "34:39",
+            "URL MLT": "N/A",
+            "URL ENG": "N/A",
+            "Duration": "N/A",
+            "transcript mlt": {},
+            "transcript eng": {}
+        }
+    ]
+}

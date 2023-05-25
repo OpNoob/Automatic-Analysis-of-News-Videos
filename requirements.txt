@@ -1,0 +1,25 @@
+# opencv-python
+opencv-contrib-python
+selenium
+validators
+tqdm
+numpy
+scenedetect
+cmake
+dlib
+face-recognition # pip install face_recognition -vvv
+matplotlib
+moviepy
+ffmpeg
+katna
+python-Levenshtein
+pandas
+openpyxl
+python-vlc
+pyqt5
+pyinstaller
+
+
+
+
+

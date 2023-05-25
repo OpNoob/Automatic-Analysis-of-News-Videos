@@ -1,0 +1,1406 @@
+{
+    "video_name": "15.08.2022 segment #3.mp4",
+    "resolution": [
+        640,
+        360
+    ],
+    "frame_count": 5702,
+    "fps": 30.0,
+    "duration": "3.0 minutes, 10.07 seconds",
+    "size": 99757424,
+    "unknown_default_name": "Unknown",
+    "skip_s": 1,
+    "analysis_date": "2023-05-10 22:49:53.277276",
+    "time_taken_s": "52.45 seconds",
+    "durations": [
+        {
+            "face_info": {
+                "name": "STEPHEN SULTANA"
+            },
+            "duration": "53.00 seconds",
+            "timestamps": [
+                {
+                    "time_start": "4.00 seconds",
+                    "time_end": "5.00 seconds"
+                },
+                {
+                    "time_start": "7.00 seconds",
+                    "time_end": "8.00 seconds"
+                },
+                {
+                    "time_start": "1.0 minutes, 26.00 seconds",
+                    "time_end": "1.0 minutes, 28.00 seconds"
+                },
+                {
+                    "time_start": "2.0 minutes, 4.00 seconds",
+                    "time_end": "2.0 minutes, 8.00 seconds"
+                },
+                {
+                    "time_start": "2.0 minutes, 12.00 seconds",
+                    "time_end": "2.0 minutes, 14.00 seconds"
+                },
+                {
+                    "time_start": "2.0 minutes, 18.00 seconds",
+                    "time_end": "2.0 minutes, 45.00 seconds"
+                },
+                {
+                    "time_start": "2.0 minutes, 48.00 seconds",
+                    "time_end": "3.0 minutes, 1.00 seconds"
+                },
+                {
+                    "time_start": "3.0 minutes, 5.00 seconds",
+                    "time_end": "3.0 minutes, 8.00 seconds"
+                }
+            ]
+        },
+        {
+            "face_info": {
+                "name": "SAHIL TANDON"
+            },
+            "duration": "35.00 seconds",
+            "timestamps": [
+                {
+                    "time_start": "1.0 minutes, 6.00 seconds",
+                    "time_end": "1.0 minutes, 12.00 seconds"
+                },
+                {
+                    "time_start": "1.0 minutes, 34.00 seconds",
+                    "time_end": "2.0 minutes, 3.00 seconds"
+                }
+            ]
+        },
+        {
+            "face_info": {
+                "name": "REUBEN GAUCI"
+            },
+            "duration": "30.00 seconds",
+            "timestamps": [
+                {
+                    "time_start": "35.00 seconds",
+                    "time_end": "1.0 minutes, 5.00 seconds"
+                }
+            ]
+        },
+        {
+            "face_info": {
+                "name": null
+            },
+            "duration": "5.00 seconds",
+            "timestamps": [
+                {
+                    "time_start": "2.0 minutes, 9.00 seconds",
+                    "time_end": "2.0 minutes, 11.00 seconds"
+                },
+                {
+                    "time_start": "2.0 minutes, 15.00 seconds",
+                    "time_end": "2.0 minutes, 17.00 seconds"
+                },
+                {
+                    "time_start": "2.0 minutes, 46.00 seconds",
+                    "time_end": "2.0 minutes, 47.00 seconds"
+                }
+            ]
+        },
+        {
+            "face_info": {
+                "name": null
+            },
+            "duration": "1.00 seconds",
+            "timestamps": [
+                {
+                    "time_start": "3.0 minutes, 9.00 seconds",
+                    "time_end": "3.0 minutes, 10.00 seconds"
+                }
+            ]
+        }
+    ],
+    "face_info_db": {
+        "amount": 5,
+        "data": {
+            "0": {
+                "name": "STEPHEN SULTANA"
+            },
+            "1": {
+                "name": "REUBEN GAUCI"
+            },
+            "2": {
+                "name": "SAHIL TANDON"
+            },
+            "3": {
+                "name": null
+            },
+            "4": {
+                "name": null
+            }
+        }
+    },
+    "scenes": {
+        "0": {
+            "start_scene": "4.00 seconds",
+            "end_scene": "5.00 seconds",
+            "match_value": null,
+            "new_person": true,
+            "face_info": {
+                "name": "STEPHEN SULTANA"
+            },
+            "scene_type": "InterviewMatch",
+            "instances": {
+                "120.0": {
+                    "name_found": null,
+                    "face_distances": []
+                },
+                "150.0": {
+                    "name_found": null,
+                    "face_distances": []
+                }
+            }
+        },
+        "1": {
+            "start_scene": "7.00 seconds",
+            "end_scene": "8.00 seconds",
+            "match_value": 0.5496403524742668,
+            "new_person": false,
+            "face_info": {
+                "name": "STEPHEN SULTANA"
+            },
+            "scene_type": "InterviewMatch",
+            "instances": {
+                "210.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.554330674184374
+                    ]
+                },
+                "240.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5449500307641596
+                    ]
+                }
+            }
+        },
+        "2": {
+            "start_scene": "35.00 seconds",
+            "end_scene": "1.0 minutes, 5.00 seconds",
+            "match_value": 0.6414647566280858,
+            "new_person": true,
+            "face_info": {
+                "name": "REUBEN GAUCI"
+            },
+            "scene_type": "Interview",
+            "instances": {
+                "1050.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5869114710003708
+                    ]
+                },
+                "1080.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6225781595647449
+                    ]
+                },
+                "1110.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.618707992804445
+                    ]
+                },
+                "1140.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6518884823225288
+                    ]
+                },
+                "1170.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6387220003799265
+                    ]
+                },
+                "1200.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6313489921963358
+                    ]
+                },
+                "1230.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6137163699816474
+                    ]
+                },
+                "1260.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.616151028852232
+                    ]
+                },
+                "1290.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6549064211761224
+                    ]
+                },
+                "1320.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6488668859700009
+                    ]
+                },
+                "1350.0": {
+                    "name_found": "REUBEN GAUCI",
+                    "face_distances": [
+                        0.633558281588498
+                    ]
+                },
+                "1380.0": {
+                    "name_found": "REUBEN GAUCI",
+                    "face_distances": [
+                        0.6550780355481745
+                    ]
+                },
+                "1410.0": {
+                    "name_found": "REUBEN GAUCI",
+                    "face_distances": [
+                        0.6495401252161814
+                    ]
+                },
+                "1440.0": {
+                    "name_found": "REUBEN GAUCI",
+                    "face_distances": [
+                        0.6337800048722387
+                    ]
+                },
+                "1470.0": {
+                    "name_found": "REUBEN GAUCI",
+                    "face_distances": [
+                        0.6324698401883673
+                    ]
+                },
+                "1500.0": {
+                    "name_found": "REUBEN GAUCI",
+                    "face_distances": [
+                        0.6346812422586826
+                    ]
+                },
+                "1530.0": {
+                    "name_found": "REUBEN GAUCI",
+                    "face_distances": [
+                        0.6541366764149495
+                    ]
+                },
+                "1560.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.683776359781939
+                    ]
+                },
+                "1590.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6448122283295067
+                    ]
+                },
+                "1620.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.637135473978729
+                    ]
+                },
+                "1650.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6789758224120608
+                    ]
+                },
+                "1680.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6408517004761144
+                    ]
+                },
+                "1710.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6489419734986397
+                    ]
+                },
+                "1740.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6512851398671505
+                    ]
+                },
+                "1770.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6725216167484124
+                    ]
+                },
+                "1800.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.662949818352575
+                    ]
+                },
+                "1830.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6508371025959541
+                    ]
+                },
+                "1860.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6508963862015309
+                    ]
+                },
+                "1890.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6269888483944129
+                    ]
+                },
+                "1920.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.636738109556438
+                    ]
+                },
+                "1950.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6216548649417409
+                    ]
+                }
+            }
+        },
+        "3": {
+            "start_scene": "1.0 minutes, 6.00 seconds",
+            "end_scene": "1.0 minutes, 12.00 seconds",
+            "match_value": 0.6353801943055971,
+            "new_person": true,
+            "face_info": {
+                "name": "SAHIL TANDON"
+            },
+            "scene_type": "InterviewMatch",
+            "instances": {
+                "1980.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.7322143015235696,
+                        0.6474952643952874
+                    ]
+                },
+                "2010.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6960249009474324,
+                        0.6189927222606006
+                    ]
+                },
+                "2040.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6828509551374712,
+                        0.6230573892466136
+                    ]
+                },
+                "2070.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.686676044961992,
+                        0.6477397972805019
+                    ]
+                },
+                "2100.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6657533128209292,
+                        0.6233390564809942
+                    ]
+                },
+                "2130.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.7030828258411507,
+                        0.6590715900607466
+                    ]
+                },
+                "2160.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6841762547451662,
+                        0.6279655404144355
+                    ]
+                }
+            }
+        },
+        "4": {
+            "start_scene": "1.0 minutes, 26.00 seconds",
+            "end_scene": "1.0 minutes, 28.00 seconds",
+            "match_value": 0.45725649270393226,
+            "new_person": false,
+            "face_info": {
+                "name": "STEPHEN SULTANA"
+            },
+            "scene_type": "InterviewMatch",
+            "instances": {
+                "2580.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.47771945002799676,
+                        0.589092785849811,
+                        0.7708723430119055
+                    ]
+                },
+                "2610.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.46010015544827987,
+                        0.5733293936784966,
+                        0.7045965410316036
+                    ]
+                },
+                "2640.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.43394987263552026,
+                        0.6136117280003245,
+                        0.7171956044578015
+                    ]
+                }
+            }
+        },
+        "5": {
+            "start_scene": "1.0 minutes, 34.00 seconds",
+            "end_scene": "2.0 minutes, 3.00 seconds",
+            "match_value": 0.1597886161087883,
+            "new_person": false,
+            "face_info": {
+                "name": "SAHIL TANDON"
+            },
+            "scene_type": "Interview",
+            "instances": {
+                "2820.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6721316306395015,
+                        0.6376957655062991,
+                        0.18307919094182046
+                    ]
+                },
+                "2850.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6887029048467496,
+                        0.6083260471850565,
+                        0.17584199192716723
+                    ]
+                },
+                "2880.0": {
+                    "name_found": "SAHIL TANDON",
+                    "face_distances": [
+                        0.7147929001536447,
+                        0.6428947109659351,
+                        0.14533586252764225
+                    ]
+                },
+                "2910.0": {
+                    "name_found": "SAHIL TANDON",
+                    "face_distances": [
+                        0.673891130088276,
+                        0.6029303348671423,
+                        0.21541947535147948
+                    ]
+                },
+                "2940.0": {
+                    "name_found": "SAHIL TANDON",
+                    "face_distances": [
+                        0.6808287185328656,
+                        0.6314953721532218,
+                        0.11859412667756496
+                    ]
+                },
+                "2970.0": {
+                    "name_found": "SAHIL TANDON",
+                    "face_distances": [
+                        0.6766002978408459,
+                        0.6121569982300815,
+                        0.15840714275150003
+                    ]
+                },
+                "3000.0": {
+                    "name_found": "SAHIL TANDON",
+                    "face_distances": [
+                        0.7038797610469008,
+                        0.6401098151635967,
+                        0.13275757317161405
+                    ]
+                },
+                "3030.0": {
+                    "name_found": "SAHIL TANDON",
+                    "face_distances": [
+                        0.6444802875736504,
+                        0.6573818670632436,
+                        0.2381095025436477
+                    ]
+                },
+                "3060.0": {
+                    "name_found": "SAHIL TANDON",
+                    "face_distances": [
+                        0.6745138287141221,
+                        0.6003523825898317,
+                        0.15181109368433401
+                    ]
+                },
+                "3090.0": {
+                    "name_found": "SAHIL TANDON",
+                    "face_distances": [
+                        0.678654200867441,
+                        0.6413804885781434,
+                        0.1211338950301508
+                    ]
+                },
+                "3120.0": {
+                    "name_found": "SAHIL TANDON",
+                    "face_distances": [
+                        0.6951967116137039,
+                        0.615067501230641,
+                        0.10981035972459105
+                    ]
+                },
+                "3150.0": {
+                    "name_found": "SAHIL TANDON",
+                    "face_distances": [
+                        0.7081913381835651,
+                        0.644303141905675,
+                        0.13551506190933188
+                    ]
+                },
+                "3180.0": {
+                    "name_found": "SAHIL TANDON",
+                    "face_distances": [
+                        0.6870059532979977,
+                        0.6047457014397752,
+                        0.1674935666457722
+                    ]
+                },
+                "3210.0": {
+                    "name_found": "SAHIL TANDON",
+                    "face_distances": [
+                        0.687028120699785,
+                        0.6236128690465615,
+                        0.14052748435302634
+                    ]
+                },
+                "3240.0": {
+                    "name_found": "SAHIL TANDON",
+                    "face_distances": [
+                        0.6837727825177852,
+                        0.6283788252847924,
+                        0.1522434530482651
+                    ]
+                },
+                "3270.0": {
+                    "name_found": "SAHIL TANDON",
+                    "face_distances": [
+                        0.6808070933807836,
+                        0.6216076131729502,
+                        0.15576957312579184
+                    ]
+                },
+                "3300.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6890064424800755,
+                        0.6311291819607795,
+                        0.12573669579692925
+                    ]
+                },
+                "3330.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.705691768750602,
+                        0.6427071121695992,
+                        0.14375998281939462
+                    ]
+                },
+                "3360.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6701148477665895,
+                        0.6092864718573209,
+                        0.14870478254084282
+                    ]
+                },
+                "3390.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6904983453527732,
+                        0.6364980974089269,
+                        0.1784449317045514
+                    ]
+                },
+                "3420.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6856812635399884,
+                        0.6419101711096602,
+                        0.13559991736713758
+                    ]
+                },
+                "3450.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6857863160738612,
+                        0.618939392143759,
+                        0.1363417192546748
+                    ]
+                },
+                "3480.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6750732118498989,
+                        0.6295287692039204,
+                        0.21194768141420334
+                    ]
+                },
+                "3510.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6876449802070871,
+                        0.6311549930335385,
+                        0.17727318893705246
+                    ]
+                },
+                "3540.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.685601133096745,
+                        0.6198771893226931,
+                        0.13717789419719728
+                    ]
+                },
+                "3570.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6732527508474303,
+                        0.6249506348943416,
+                        0.16503633194665454
+                    ]
+                },
+                "3600.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6741130242431129,
+                        0.6001125560380028,
+                        0.20351012915887604
+                    ]
+                },
+                "3630.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6781905857463063,
+                        0.633238119053911,
+                        0.17825945192380133
+                    ]
+                },
+                "3660.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.7120327871393501,
+                        0.6336830313466015,
+                        0.13025246074631666
+                    ]
+                },
+                "3690.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6835468487918325,
+                        0.5977818421183092,
+                        0.21976396204231802
+                    ]
+                }
+            }
+        },
+        "6": {
+            "start_scene": "2.0 minutes, 4.00 seconds",
+            "end_scene": "2.0 minutes, 8.00 seconds",
+            "match_value": 0.5844321527091942,
+            "new_person": false,
+            "face_info": {
+                "name": "STEPHEN SULTANA"
+            },
+            "scene_type": "InterviewMatch",
+            "instances": {
+                "3720.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5684114001538723,
+                        0.6695685455051517,
+                        0.8002850674400694
+                    ]
+                },
+                "3750.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6218711524353252,
+                        0.6490750599330823,
+                        0.8049009538894327
+                    ]
+                },
+                "3780.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5824864961739018,
+                        0.7014702726801468,
+                        0.8003722140611241
+                    ]
+                },
+                "3810.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.566875749441439,
+                        0.6959768625631331,
+                        0.7634194655849285
+                    ]
+                },
+                "3840.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.582515965341433,
+                        0.7421621373979298,
+                        0.8432702691211419
+                    ]
+                }
+            }
+        },
+        "7": {
+            "start_scene": "2.0 minutes, 9.00 seconds",
+            "end_scene": "2.0 minutes, 11.00 seconds",
+            "match_value": 0.620178754015238,
+            "new_person": true,
+            "face_info": {
+                "name": null
+            },
+            "scene_type": "UnknownFace",
+            "instances": {
+                "3870.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.622665764323237,
+                        0.7683467184520252,
+                        0.8610321362486436
+                    ]
+                },
+                "3900.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6239567890936425,
+                        0.7753317205900947,
+                        0.851889571677529
+                    ]
+                },
+                "3930.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.613913708628835,
+                        0.7691041692494475,
+                        0.8472162663565012
+                    ]
+                }
+            }
+        },
+        "8": {
+            "start_scene": "2.0 minutes, 12.00 seconds",
+            "end_scene": "2.0 minutes, 14.00 seconds",
+            "match_value": 0.5970148053209456,
+            "new_person": false,
+            "face_info": {
+                "name": "STEPHEN SULTANA"
+            },
+            "scene_type": "InterviewMatch",
+            "instances": {
+                "3960.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5917366616024122,
+                        0.7829767220501772,
+                        0.8781447749607468,
+                        0.911569137150876
+                    ]
+                },
+                "3990.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5966618634098652,
+                        0.7863092574041359,
+                        0.8790130875702402,
+                        0.8951625729324938
+                    ]
+                },
+                "4020.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6026458909505594,
+                        0.7670118511243935,
+                        0.9298103368467157,
+                        0.8770561123837735
+                    ]
+                }
+            }
+        },
+        "9": {
+            "start_scene": "2.0 minutes, 15.00 seconds",
+            "end_scene": "2.0 minutes, 17.00 seconds",
+            "match_value": 0.2552864793282925,
+            "new_person": false,
+            "face_info": {
+                "name": null
+            },
+            "scene_type": "UnknownFace",
+            "instances": {
+                "4050.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6250455239186994,
+                        0.7366060589672805,
+                        0.8431410997387991,
+                        0.31688844697245444
+                    ]
+                },
+                "4080.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5903403274917585,
+                        0.7167204119777573,
+                        0.8153583734705327,
+                        0.22835222708713374
+                    ]
+                },
+                "4110.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6023270053207168,
+                        0.7326924825649846,
+                        0.8340440114081235,
+                        0.2206187639252894
+                    ]
+                }
+            }
+        },
+        "10": {
+            "start_scene": "2.0 minutes, 18.00 seconds",
+            "end_scene": "2.0 minutes, 45.00 seconds",
+            "match_value": 0.5820730774168658,
+            "new_person": false,
+            "face_info": {
+                "name": "STEPHEN SULTANA"
+            },
+            "scene_type": "Interview",
+            "instances": {
+                "4140.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6129099459941324,
+                        0.7208262080469583,
+                        0.8642231339467447,
+                        0.8916152143658337
+                    ]
+                },
+                "4170.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6070259270519941,
+                        0.6741622387635497,
+                        0.8105362267965294,
+                        0.8740566978740439
+                    ]
+                },
+                "4200.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5534327048522415,
+                        0.6804912933421134,
+                        0.8293322728455914,
+                        0.8913298911045453
+                    ]
+                },
+                "4230.0": {
+                    "name_found": "STEPHEN SULTANA",
+                    "face_distances": [
+                        0.6202755836354996,
+                        0.7109250875933106,
+                        0.8748704897631062,
+                        0.8927551769338088
+                    ]
+                },
+                "4260.0": {
+                    "name_found": "STEPHEN SULTANA",
+                    "face_distances": [
+                        0.5732298739694834,
+                        0.6315683132231116,
+                        0.8150096766153487,
+                        0.8503905842615754
+                    ]
+                },
+                "4290.0": {
+                    "name_found": "STEPHEN SULTANA",
+                    "face_distances": [
+                        0.5367674875593077,
+                        0.6818041429892266,
+                        0.8191097156210366,
+                        0.8965629900398612
+                    ]
+                },
+                "4320.0": {
+                    "name_found": "STEPHEN SULTANA",
+                    "face_distances": [
+                        0.5830996671599854,
+                        0.6812471413533487,
+                        0.7973981573212188,
+                        0.9077746206738272
+                    ]
+                },
+                "4350.0": {
+                    "name_found": "STEPHEN SULTANA",
+                    "face_distances": [
+                        0.6183293868776831,
+                        0.7203591665656552,
+                        0.8621803804489558,
+                        0.9117354889230261
+                    ]
+                },
+                "4380.0": {
+                    "name_found": "STEPHEN SULTANA",
+                    "face_distances": [
+                        0.6057722472452628,
+                        0.6901484304081272,
+                        0.878208177264934,
+                        0.8877495043604602
+                    ]
+                },
+                "4410.0": {
+                    "name_found": "STEPHEN SULTANA",
+                    "face_distances": [
+                        0.5915896925772297,
+                        0.6990759017015042,
+                        0.8734296767811127,
+                        0.9042304869707782
+                    ]
+                },
+                "4440.0": {
+                    "name_found": "STEPHEN SULTANA",
+                    "face_distances": [
+                        0.5945039730977242,
+                        0.7101208908631945,
+                        0.8260486892528015,
+                        0.8943161341296565
+                    ]
+                },
+                "4470.0": {
+                    "name_found": "STEPHEN SULTANA",
+                    "face_distances": [
+                        0.606465936792912,
+                        0.7373365681509948,
+                        0.8557503895535706,
+                        0.9068986314009941
+                    ]
+                },
+                "4500.0": {
+                    "name_found": "STEPHEN SULTANA",
+                    "face_distances": [
+                        0.5850311462047909,
+                        0.7421457431148638,
+                        0.850117264281216,
+                        0.9411913282203905
+                    ]
+                },
+                "4530.0": {
+                    "name_found": "PHEN SULTANA",
+                    "face_distances": [
+                        0.5919661602217859,
+                        0.685492654097839,
+                        0.8058870252721907,
+                        0.9067288635300977
+                    ]
+                },
+                "4560.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5833438343555791,
+                        0.711587638500501,
+                        0.8172299705058809,
+                        0.9196390931316294
+                    ]
+                },
+                "4590.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5908792480979858,
+                        0.7006673375656908,
+                        0.8250001541522638,
+                        0.8809007497834864
+                    ]
+                },
+                "4620.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5345512115408387,
+                        0.6446594274868377,
+                        0.7836708657881991,
+                        0.8025321724819998
+                    ]
+                },
+                "4650.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5932238084409832,
+                        0.7259102210482353,
+                        0.8829470792119877,
+                        0.8797641358816412
+                    ]
+                },
+                "4680.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5745743373210077,
+                        0.6910953274191965,
+                        0.8017020841417839,
+                        0.85880818140933
+                    ]
+                },
+                "4710.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5409818805309444,
+                        0.7159406752378241,
+                        0.7917014145515943,
+                        0.916646669211024
+                    ]
+                },
+                "4740.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5708166549468645,
+                        0.6893764634222622,
+                        0.808998390708059,
+                        0.9106258294637207
+                    ]
+                },
+                "4770.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6063435167211028,
+                        0.7151734726409403,
+                        0.8067962313616688,
+                        0.9146074806491
+                    ]
+                },
+                "4800.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5685793207479892,
+                        0.7378118599112627,
+                        0.8414149990633129,
+                        0.9094752200480538
+                    ]
+                },
+                "4830.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5788475677120603,
+                        0.7075839675077294,
+                        0.8595767336099288,
+                        0.9055142351891101
+                    ]
+                },
+                "4860.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5223429663071867,
+                        0.6907832931217315,
+                        0.7926381065899804,
+                        0.8919343668259192
+                    ]
+                },
+                "4890.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5578981872065957,
+                        0.6340393802892202,
+                        0.7920422278906825,
+                        0.8560155622074741
+                    ]
+                },
+                "4920.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6000204007464609,
+                        0.697274538789026,
+                        0.7909324410295736,
+                        0.9041011280999403
+                    ]
+                },
+                "4950.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5952434997566101,
+                        0.7281507220505745,
+                        0.8345681637409679,
+                        0.9015015917888668
+                    ]
+                }
+            }
+        },
+        "11": {
+            "start_scene": "2.0 minutes, 46.00 seconds",
+            "end_scene": "2.0 minutes, 47.00 seconds",
+            "match_value": 0.1752947071569786,
+            "new_person": false,
+            "face_info": {
+                "name": null
+            },
+            "scene_type": "UnknownFace",
+            "instances": {
+                "4980.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6007820879673784,
+                        0.7541725562961261,
+                        0.8480241613563972,
+                        0.18252217961931105
+                    ]
+                },
+                "5010.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.604968806523684,
+                        0.7730141482296629,
+                        0.8557226541700009,
+                        0.16806723469464616
+                    ]
+                }
+            }
+        },
+        "12": {
+            "start_scene": "2.0 minutes, 48.00 seconds",
+            "end_scene": "3.0 minutes, 1.00 seconds",
+            "match_value": 0.5834760152463555,
+            "new_person": false,
+            "face_info": {
+                "name": "STEPHEN SULTANA"
+            },
+            "scene_type": "InterviewMatch",
+            "instances": {
+                "5040.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5744396134253021,
+                        0.6489285982937062,
+                        0.8135218175885878,
+                        0.8577708360158169
+                    ]
+                },
+                "5070.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.6121163767520517,
+                        0.6853769086215202,
+                        0.816419089937224,
+                        0.8807091965705868
+                    ]
+                },
+                "5100.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.575882255855064,
+                        0.7194782157658851,
+                        0.8521509191934127,
+                        0.8859370904213213
+                    ]
+                },
+                "5130.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.595103025798983,
+                        0.6572175616302188,
+                        0.767260865385069,
+                        0.8592387689054131
+                    ]
+                },
+                "5160.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5758489799135802,
+                        0.7179297271347131,
+                        0.8344738578016205,
+                        0.8654974193393075
+                    ]
+                },
+                "5190.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.577735392946906,
+                        0.7293147280115424,
+                        0.8298860043804082,
+                        0.9164232816787706
+                    ]
+                },
+                "5220.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5767401262758476,
+                        0.7638460085638089,
+                        0.8484589194484831,
+                        0.9190890187325509
+                    ]
+                },
+                "5250.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.601591088705067,
+                        0.7355661608997031,
+                        0.8318563543045793,
+                        0.9449468489234657
+                    ]
+                },
+                "5280.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5790197428882086,
+                        0.6773522791774005,
+                        0.7937488018450755,
+                        0.904430327561387
+                    ]
+                },
+                "5310.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5988958101203568,
+                        0.6622659887185397,
+                        0.7815538421784144,
+                        0.8700783009544588
+                    ]
+                },
+                "5340.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5617573286067414,
+                        0.687665757992862,
+                        0.8302458251945174,
+                        0.8404514859272435
+                    ]
+                },
+                "5370.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5879819727108572,
+                        0.7280643124341993,
+                        0.8241719978747265,
+                        0.9183857434201044
+                    ]
+                },
+                "5400.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5675950506722365,
+                        0.7502517839221179,
+                        0.8094101857784871,
+                        0.9131091349589279
+                    ]
+                },
+                "5430.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5839574487777748,
+                        0.7099462775036325,
+                        0.8267224315979809,
+                        0.8804318654683132
+                    ]
+                }
+            }
+        },
+        "13": {
+            "start_scene": "3.0 minutes, 5.00 seconds",
+            "end_scene": "3.0 minutes, 8.00 seconds",
+            "match_value": 0.5240585439259868,
+            "new_person": false,
+            "face_info": {
+                "name": "STEPHEN SULTANA"
+            },
+            "scene_type": "InterviewMatch",
+            "instances": {
+                "5550.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5770933304083633,
+                        0.7776722224976094,
+                        0.6531875346658691,
+                        0.8161557117316462
+                    ]
+                },
+                "5580.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5199744858270687,
+                        0.7107419277011956,
+                        0.8076996355581807,
+                        0.8275127975464872
+                    ]
+                },
+                "5610.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.5593219924427597,
+                        0.7584100659830527,
+                        0.8270360770094132,
+                        0.8688827149973121
+                    ]
+                },
+                "5640.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.4398443670257555,
+                        0.610294360578968,
+                        0.7018450861751833,
+                        0.6936180696117927
+                    ]
+                }
+            }
+        },
+        "14": {
+            "start_scene": "3.0 minutes, 9.00 seconds",
+            "end_scene": "3.0 minutes, 10.00 seconds",
+            "match_value": 0.720888290551025,
+            "new_person": true,
+            "face_info": {
+                "name": null
+            },
+            "scene_type": "UnknownFace",
+            "instances": {
+                "5670.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.7166531679399877,
+                        0.8182532898901806,
+                        0.894715772139469,
+                        0.8508578205953465
+                    ]
+                },
+                "5700.0": {
+                    "name_found": null,
+                    "face_distances": [
+                        0.7251234131620622,
+                        0.8220842029730274,
+                        0.8786224783956431,
+                        0.8485051827204613
+                    ]
+                }
+            }
+        }
+    }
+}
