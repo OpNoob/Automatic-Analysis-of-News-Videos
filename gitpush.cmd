@@ -1,7 +1,7 @@
 git init
 
-git lfs install
-git lfs track Tesseract-OCR/libtesseract-5.dll
+@REM git lfs install
+@REM git lfs track Tesseract-OCR/libtesseract-5.dll
 @REM git lfs track "*.mp4"
 @REM git lfs track "*.pkl"
 @REM git lfs track "*.dll"
