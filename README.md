@@ -3,6 +3,11 @@ My Final Year Project (FYP) for my degree of Bachelor of Science in Information 
 
 An executable is also provided without any necessary installations.
 
+# Development and Testing
+Currently no further development will be done due to the FYP submission.
+
+For the full list of code during development, validation, analysis compairson and results, access the [development_tests](https://github.com/OpNoob/Automatic-Analysis-of-News-Videos/tree/development_tests) branch.
+
 # Setup
 - Python 3.9
 - [Tesseract-OCR](https://tesseract-ocr.github.io/tessdoc/Downloads.html)
@@ -11,9 +16,9 @@ pip install -r requirements
 ```
 
 # Dataset/Videos
-The videos are retreived from the [TVM website](https://tvmi.mt/)
+The videos are retreived from the [TVM website](https://tvmi.mt/).
 
-The extracted videos can be found at: [link](test)
+The extracted videos can be found at: [link](test).
 
 # GUI preview
 ![program_1](https://github.com/OpNoob/Automatic-Analysis-of-News-Videos/assets/46422752/189446b6-466c-4fc1-b99f-12325ded9549)
