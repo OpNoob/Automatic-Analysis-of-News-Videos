@@ -8,6 +8,8 @@ Currently no further development will be done due to the FYP submission.
 
 For the full list of code during development, validation, analysis compairson and results, access the [development_tests](https://github.com/OpNoob/Automatic-Analysis-of-News-Videos/tree/development_tests) branch.
 
+The [main](https://github.com/OpNoob/Automatic-Analysis-of-News-Videos/tree/main) branch contains only the code for the program up till creating and executable.
+
 # Setup
 - Python 3.9
 - [Tesseract-OCR](https://tesseract-ocr.github.io/tessdoc/Downloads.html)
