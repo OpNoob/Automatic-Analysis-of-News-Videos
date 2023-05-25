@@ -18,7 +18,7 @@ pip install -r requirements
 # Dataset/Videos
 The videos are retreived from the [TVM website](https://tvmi.mt/).
 
-The extracted videos can be found at: [link](test).
+<!-- The extracted videos can be found at: [link](test). -->
 
 # GUI preview
 ![program_1](https://github.com/OpNoob/Automatic-Analysis-of-News-Videos/assets/46422752/189446b6-466c-4fc1-b99f-12325ded9549)
