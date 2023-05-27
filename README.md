@@ -23,11 +23,11 @@ The videos are retreived from the [TVM website](https://tvmi.mt/).
 <!-- The extracted videos can be found at: [link](test). -->
 
 # GUI preview
-![program_1](https://github.com/OpNoob/Automatic-Analysis-of-News-Videos/assets/46422752/189446b6-466c-4fc1-b99f-12325ded9549)
-![program_2](https://github.com/OpNoob/Automatic-Analysis-of-News-Videos/assets/46422752/902aa351-b792-431d-b46b-1cb3f989d4a1)
+![program_1](https://github.com/OpNoob/Automatic-Analysis-of-News-Videos/assets/46422752/6c660883-60ba-44eb-8be2-6641393143d8)
+![program_2](https://github.com/OpNoob/Automatic-Analysis-of-News-Videos/assets/46422752/7758a230-aeba-40d8-90b8-7dbf499f417f)
 
 # Timeline Samples
-![timeline](https://github.com/OpNoob/Automatic-Analysis-of-News-Videos/assets/46422752/35f922d5-2187-4a4f-9173-970d53ca453d)
+![timeline](https://github.com/OpNoob/Automatic-Analysis-of-News-Videos/assets/46422752/c92f1f53-0344-4b00-b89b-03015db5a35b)
 
 # Timeline vs Validation Samples
-![timeline_validation](https://github.com/OpNoob/Automatic-Analysis-of-News-Videos/assets/46422752/1c70d8d9-f047-495f-bf32-1b2e1bcd9944)
+![timeline_validation](https://github.com/OpNoob/Automatic-Analysis-of-News-Videos/assets/46422752/f9b57092-fc19-4130-9699-02034747b6f2)
